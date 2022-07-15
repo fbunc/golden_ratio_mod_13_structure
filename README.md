@@ -1,5 +1,7 @@
 # EigenPhiFunctor
 
+Simple puzzle:
+
 https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
 $$ T_o  = \frac{1}{2}(1+\sqrt{5})$$
