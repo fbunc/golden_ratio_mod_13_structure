@@ -13,7 +13,7 @@ allow_scatter = 1
 allow_text = 1
 allow_gif = 0
 
-To          = 37 #Possible number of states in the input (ADC resolution)
+To          = 39 #Possible number of states in the input (ADC resolution)
 k_o         = 1/3
 sessions    = 10 
 
@@ -123,60 +123,25 @@ for n in events_index:
          
         if allow_scatter==1 :
             plt.scatter(z_carrier_alpha[n], z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-7]), s=symbol_size[n])
-        
+            plt.scatter(z_carrier_alpha[n], (-1)*z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-6]), s=symbol_size[n])
+            plt.scatter((-1)*z_carrier_alpha[n], z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-5]), s=symbol_size[n])
+            plt.scatter((-1)*z_carrier_alpha[n], (-1)*z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-4]), s=symbol_size[n])
+            plt.scatter(z_carrier_beta[n], z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-3]), s=symbol_size[n])
+            plt.scatter(z_carrier_beta[n], (-1)*z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-2]), s=symbol_size[n])
+            plt.scatter((-1)*z_carrier_beta[n], z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-1]), s=symbol_size[n])
+            plt.scatter((-1)*z_carrier_beta[n], (-1)*z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n]), s=symbol_size[n])
         if allow_text==1 :
             plt.text(z_carrier_alpha[n], z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-7]), size=text_size[n])
-        
-        if allow_scatter==1 :
-            plt.scatter(z_carrier_alpha[n], (-1)*z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-6]), s=symbol_size[n])
-        
-        if allow_text==1 :
-            plt.text(z_carrier_alpha[n], (-1)*z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-6]), size=text_size[n])
-        
-      
-        if allow_scatter==1 :
-            plt.scatter((-1)*z_carrier_alpha[n], z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-5]), s=symbol_size[n])
-        
-        if allow_text==1 : 
+            plt.text(z_carrier_alpha[n], (-1)*z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-6]), size=text_size[n])         
             plt.text((-1)*z_carrier_alpha[n], z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-5]), size=text_size[n])
-        
-        
-        if allow_scatter==1 :
-            plt.scatter((-1)*z_carrier_alpha[n], (-1)*z_carrier_beta[n] , marker=event_marker, color=hsvwheel(symbol[n-4]), s=symbol_size[n])
-        
-        if allow_text==1 :
-            plt.text((-1)*z_carrier_alpha[n], (-1)*z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-4]), size=text_size[n])
-        
-       
-        if allow_scatter==1 :
-            plt.scatter(z_carrier_beta[n], z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-3]), s=symbol_size[n])
-        
-        if allow_text==1 :
+            plt.text((-1)*z_carrier_alpha[n], (-1)*z_carrier_beta[n],str(symbol[n]), color=hsvwheel(symbol[n-4]), size=text_size[n])      
             plt.text(z_carrier_beta[n], z_carrier_alpha[n] ,str(symbol[n]), color=hsvwheel(symbol[n-3]), size=text_size[n])
-        
-        
-        if allow_scatter==1 :
-            plt.scatter(z_carrier_beta[n], (-1)*z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-2]), s=symbol_size[n])
-        
-        if allow_text==1 :
             plt.text(z_carrier_beta[n], (-1)*z_carrier_alpha[n] ,str(symbol[n]), color=hsvwheel(symbol[n-2]), size=text_size[n])
-        
-        
-        if allow_scatter==1 :
-            plt.scatter((-1)*z_carrier_beta[n], z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n-1]), s=symbol_size[n])
-        
-        if allow_text==1 :
             plt.text((-1)*z_carrier_beta[n], z_carrier_alpha[n] ,str(symbol[n]), color=hsvwheel(symbol[n-1]), size=text_size[n])
-        
-        
-        if allow_scatter==1 :
-            plt.scatter((-1)*z_carrier_beta[n], (-1)*z_carrier_alpha[n] , marker=event_marker, color=hsvwheel(symbol[n]), s=symbol_size[n])
-        
-        if allow_text==1 :
             plt.text((-1)*z_carrier_beta[n],(-1)*z_carrier_alpha[n] ,str(symbol[n]), color=hsvwheel(symbol[n]), size=text_size[n])
         
         # Save a png with current state
-        plt.savefig(f'/home/dioni/pythoncode/outpng/main/img{n}.png',dpi=dots_per_inch)
+        plt.savefig(f'img{n}.png',dpi=dots_per_inch)
     
         
     
@@ -190,31 +155,4 @@ for n in events_index:
 
 
 
-
-
-#To create GIF of little ammount of frames use this
-# For many frames use:
-#ffmpeg -r 1 -i img%01d.png -vcodec mpeg4 -y movie.mp4
-#inside png folder
-if allow_gif == 1 :
-    # Save animation
-    # filepaths
-    fp_in = "/home/dioni/pythoncode/outpng/main/*.png"
-    fp_out = "/home/dioni/pythoncode/outpng/main/image.gif"
-
-
-
-    def get_number(file_name):
-        m = re.findall('img([0-9]*)\.', file_name)[0]
-        return int(m)
-
-    lst_files = glob.glob(fp_in)
-    lst_numbers = [get_number(i) for i in lst_files]
-
-    lst_number_files = sorted(list(zip(lst_numbers, lst_files)))
-    lst_files_sorted = [i[1] for i in lst_number_files]
-
-    img, *imgs = [Image.open(f) for f in lst_files_sorted]
-    img.save(fp=fp_out, format='GIF', append_images=imgs,
-         save_all=True, duration=Ts, loop=0)
  
