@@ -13,7 +13,7 @@ allow_scatter = 1
 allow_text = 1
 allow_gif = 0
 
-To          = 39 #Possible number of states in the input (ADC resolution)
+To          = 39 
 k_o         = 1/3
 sessions    = 10 
 
