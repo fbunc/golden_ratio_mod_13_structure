@@ -11,7 +11,7 @@ They started working together, playing and brainstorming about how to help 'Time
 
 They realized that special beings they observed amazed sometimes while playing, called 'complex iterators', were $i$'s parents and that they were expecting to be seen.  
 
-They had answers to give and wanted their son to know that his real name is $j$ (I know this pun hurts many people).
+They had answers to give and wanted their son to know that his real name is $j$ (sorry,just an inocent pun).
 
 They also wanted to help $i$ friends and show them the path of wisdom.
 
@@ -24,6 +24,8 @@ $e$ ended up knowing that his true potential was given by calling himself $exp()
 $\pi$ realized that she also had issues with her partner, her other half was missing, and went out to find her.  
 
 $i$ think we go with the formulas...
+
+They just had a possible **map**, **quartz**, and a **compass**, so:
 
 'They' decide to define $M$ initial guess as: 
 
@@ -75,9 +77,13 @@ And finally this is how 'Time' and 'Symbols' get married:
 
 $$\psi[n] = \hat n[n]+F_f·\zeta^{S[n]}$$
 
-And by trying open relationships with  dynamic and flexible friends called $T_o$ and $k·M$ they were able to live happily ever after 
+And with the company of flexible friends called $T_o$ and $k·M$ they were able to live happily ever after 
 
-After a divorce they realized they needed to learn more, much more, they just had a possible map, quartz, and a compass
+After a divorce they realized they needed to learn more, much more... 
 
-(can someone give an idea for a script following these examples?) (if I end up doing a video I promise I will check syntax and grammar)
+(Open script to explain the first letter of the word stochastic)
+
+
+
+
 
