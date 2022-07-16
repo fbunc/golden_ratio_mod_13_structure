@@ -54,8 +54,8 @@ if allow_plot == 1 :
     hsvwheel = cm.get_cmap('hsv', To)
 
 #Main constants
-wzero = 2 * np.pi * (1/To) #Base angular velocity
-Ts=500                   #sampling period in milliseconds
+wzero = 2 * np.pi * (1/To) #Base
+
 
 #Initial conditions natural information field carrier
 half=1/2
