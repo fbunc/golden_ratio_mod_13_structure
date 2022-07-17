@@ -29,7 +29,7 @@ So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fract
 
 They chose a spiral together and some lucky numbers and started dancing life together as one. 
 
-$e$ met true potential and saw $exp()$ in the mirror. 
+$e$ met many infinite series and saw $exp()$ true potential in the mirror, and corssed to the other side to work. 
 
 $\pi$ realized about own troubles with closing loops, and started a really beautiful friendship with $2$
 
