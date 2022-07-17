@@ -15,7 +15,7 @@ So they decided to ask for help from their friends from the numbers world,$\pi$ 
 
 They started working together, playing and brainstorming on how to help 'Time' and 'Symbols'  improve their relationship. 
 
-They realized that special beings from another dimension they observed amazed sometimes while playing, called 'Eigen', were $i$'s parents and that they were expecting to be seen.  
+They realized that special beings from another dimension they observed amazed sometimes while playing, called 'Eigenwheels', were $i$'s parents and that they were expecting to be seen.  
 
 They had answers to give and wanted $i$ to meet new relatives called $1j$ 
 
