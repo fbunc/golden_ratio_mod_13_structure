@@ -27,7 +27,7 @@ Also the numbers had insights:
 
 $e$ met true potential and saw $exp()$ in the mirror. 
 
-$\pi$ realized about own troubles with closing loops, and started a really beautiful relationship with $2$
+$\pi$ realized about own troubles with closing loops, and started a really beautiful friendship with $2$
 
 $i$ think we go with the formulas...
 
