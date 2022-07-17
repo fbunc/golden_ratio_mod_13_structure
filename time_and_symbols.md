@@ -1,6 +1,6 @@
 
 
-# 'Time' and 'Symbols' -The main idea that could be explained in a short and simple video is :
+# 'Time' and 'Symbols' meet 'Eigenwheels' :
 
 
 This is the story of 'Time' and 'Symbols', they loved each other but didn't know how to sync between them, how to get along. 
