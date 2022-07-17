@@ -23,9 +23,11 @@ So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fract
 
 They chose a ring together and a Lucky number and started walking life together as one. 
 
-$e$ ended up knowing that his/her/they true potential was given by calling himself $exp()$ at work. 
+Also the numbers world friends had insights:
 
-$\pi$ realized that she/he/they also had issues with his/her/their partner, her/his/their other half was missing, and went out to find her/him/them.  
+$e$ met true potential and saw $exp()$ in the mirror. 
+
+$\pi$ realized about own troubles with closing loops, and started a really beautiful relationship with $2$
 
 $i$ think we go with the formulas...
 
