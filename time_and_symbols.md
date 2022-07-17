@@ -5,15 +5,15 @@
 
 This is the story of 'Time' and 'Symbols', they loved each other but didn't know how to sync between them, how to get along. 
 
-The 'reality' was becoming more complicated and they were not able to understand each other, 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. 
+'Reality' was becoming more complicated and they were not able to understand each other, 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. 
 
 They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
-So they decided to ask for help from their friends from the numbers world,$\pi$ , $e$, and $i$ (who was born an orphan), after a while more folks joined the team, many odd some mysterious primes.  
+So they decided to ask for help from their friends from the numbers world,$\pi$ , $e$, and $i$ (who was born an orphan), after a while more friends joined the team. 
 
-They started working together, playing and brainstorming about how to help 'Time' and 'Symbols'  improve their relationship. 
+They started working together, playing and brainstorming on how to help 'Time' and 'Symbols'  improve their relationship. 
 
-They realized that special beings they observed amazed sometimes while playing, called 'complex iterators', were $i$'s parents and that they were expecting to be seen.  
+They realized that special beings from another dimension they observed amazed sometimes while playing, called 'Eigen', were $i$'s parents and that they were expecting to be seen.  
 
 They had answers to give and wanted their son to know that his real name is $j$ (sorry,just an inocent pun,wont be in the video).
 
@@ -35,7 +35,7 @@ They just had a possible **map**, **quartz**, and a **compass**, so:
 
 $$M=max(S)+1$$
 
-So as a first attempt they  define a root of unity for representing all possible values of a curated representation of 'reality' (encoded in $S_n$) as:
+So as a first attempt they  define a root of unity for representing all possible values of a curated representation of 'Reality' (encoded in $S_n$) as:
 
 $$\zeta = e^{\frac{2\pi i}{M}}$$
 
