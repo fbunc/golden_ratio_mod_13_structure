@@ -9,10 +9,9 @@ This is the story of 'Time' and 'Symbols', they loved each other but didn't know
 
 All this made their life together much harder, 'Reality' and 'Ignorance' affected both in different ways, but also affected the quality of the 'Labels' they where able to chose while creating 'sets'.
 
-'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' **train-of-thoughts** . Some sequences made sense for both, but sometimes they found other sequences that gave the impression of being 'manipulated' by 'Ignorance' to feel wrong for both, to make them feel confused.  
+'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' **train-of-thoughts** . 
 
-
-
+Some sequences made sense for both, but sometimes they found other sequences that gave the impression of being 'manipulated' by 'Ignorance' to feel wrong for both, to make them feel confused.  
 
 They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
