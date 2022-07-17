@@ -34,4 +34,4 @@ $$\hat n[n] =r[n]·\tau^{n}$$
 
 
 
-
+https://i.redd.it/zzyv2fajbnkz.png
