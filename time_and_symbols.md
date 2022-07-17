@@ -5,7 +5,9 @@
 
 This is the story of 'Time' and 'Symbols', they loved each other but didn't know how to sync between them, how to get along. 
 
-'Reality' was becoming more complicated and they were not able to understand each other, 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. 
+'Reality' was becoming more complicated and that made them not able to understand each other. 
+
+'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. 
 
 They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
