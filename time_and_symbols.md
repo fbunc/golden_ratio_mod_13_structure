@@ -23,9 +23,7 @@ They also wanted to help $i$ friends and show them the path of wisdom.
 
 So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fractals, waves of information, linearity, closed loops, and beautiful representations of reality, this insightful experience made them love each other much more, and made them stronger. 
 
-They chose a ring together and a Lucky number and started walking life together as one. 
-
-Also the numbers had insights:
+They chose a spiral together and some lucky numbers and started dancing life together as one. 
 
 $e$ met true potential and saw $exp()$ in the mirror. 
 
