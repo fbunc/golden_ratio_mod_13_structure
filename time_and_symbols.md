@@ -7,7 +7,7 @@ This is the story of 'Time' and 'Symbols', they loved each other but didn't know
 
 'Reality' was becoming more complicated and that caused  **quartz** to tick faster,what made the 'Comms' between them a problem to solve together. 
 
-'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' **train-of-thoughts** . Some sequences made sense for both, but sometimes they found others that seem 'manipulated' to be wrong.  
+'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' **train-of-thoughts** . Some sequences made sense for both, but sometimes they found others that gave the impression of being 'manipulated' by 'Ignorance' to be wrong.  
 
 They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
