@@ -8,7 +8,8 @@ $$ T_o  = \frac{1}{2}(1+\sqrt{5})$$
 $$ T_{mod} =2 $$
 $$ M =13 $$
 
-They explore a  root of unity for the discrete time index for the selected $T_o$, $T_{mod}, and $T_{color}$ :
+They explore a  root of unity for the discrete time index for the selected $T_o$, $T_{mod}, 
+and $T_{color}$ :
 
 $$ \tau = e^{\frac{2\pi i}{T_o}}$$
 
