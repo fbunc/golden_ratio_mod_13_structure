@@ -88,7 +88,19 @@ After a divorce they realized they needed to learn more, much more...
 (Open script to explain the first letter of the word stochastic)
 
 
+
+
+
+
+
+
+
+
+
+
 Another context of discovery for the sequences (as closed loops)  :
+
+https://github.com/fbunc/Golden_Ratio_and_13_structure
 
  0,8,3,11,6,1,9,4,12,7,2,10,5 
 
