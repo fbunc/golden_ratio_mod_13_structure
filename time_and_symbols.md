@@ -3,7 +3,11 @@
 # 'Time' and 'Symbols' -The main idea that could be explained in a short and simple video is :
 
 
-This is the story of 'Time' and 'Symbols', they loved each other but didn't know how to sync between them, how to get along, the reality was becoming more complicated and they were not able to understand each other, 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
+This is the story of 'Time' and 'Symbols', they loved each other but didn't know how to sync between them, how to get along. 
+
+The 'reality' was becoming more complicated and they were not able to understand each other, 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' train-of-thoughts. 
+
+They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
 So they decided to ask for help from their friends from the numbers world,$\pi$ , $e$, and $i$ (who was born an orphan), after a while more folks joined the team, many odd some mysterious primes.  
 
@@ -11,7 +15,7 @@ They started working together, playing and brainstorming about how to help 'Time
 
 They realized that special beings they observed amazed sometimes while playing, called 'complex iterators', were $i$'s parents and that they were expecting to be seen.  
 
-They had answers to give and wanted their son to know that his real name is $j$ (sorry,just an inocent pun).
+They had answers to give and wanted their son to know that his real name is $j$ (sorry,just an inocent pun,wont be in the video).
 
 They also wanted to help $i$ friends and show them the path of wisdom.
 
@@ -19,9 +23,9 @@ So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fract
 
 They chose a ring together and a Lucky number and started walking life together as one. 
 
-$e$ ended up knowing that his true potential was given by calling himself $exp()$ at work. 
+$e$ ended up knowing that his/her/they true potential was given by calling himself $exp()$ at work. 
 
-$\pi$ realized that she also had issues with her partner, her other half was missing, and went out to find her.  
+$\pi$ realized that she/he/they also had issues with his/her/their partner, her/his/their other half was missing, and went out to find her/him/them.  
 
 $i$ think we go with the formulas...
 
@@ -77,13 +81,146 @@ And finally this is how 'Time' and 'Symbols' get married:
 
 $$\psi[n] = \hat n[n]+F_f·\zeta^{S[n]}$$
 
-And with the company of flexible friends called $T_o$ and $k·M$ they were able to live happily ever after 
+And with the help of their friends from the numbers world and new groups of friends called $T_o$ and $k·M$ they were able to live happily ever after 
 
 After a divorce they realized they needed to learn more, much more... 
 
 (Open script to explain the first letter of the word stochastic)
 
 
+Another context of discovery for the sequences (as closed loops)  :
+
+ 0,8,3,11,6,1,9,4,12,7,2,10,5 
+
+and
+
+0,5,10,2,7,12,4,9,1,6,11,3,8
+
+Consider all intermediate sequences for different  lags. 
+
+Main lines included  in OEIS  A257961 & A025641 :
+
+https://oeis.org/search?q=0%2C8%2C3%2...
+
+'Time' and 'Symbols'   (another more convoluted solution to the same kind of puzzle) (Full solution to this puzzle at the end of this text. To avoid spoilers don't click now on these either)
+
+https://github.com/fbunc/Golden_Ratio...
+
+https://github.com/fbunc/Golden_Ratio...
+
+Other related docs, and inspiration:
+
+In order :
+
+A beautiful map of math by Dominic Walliman :
+
+https://i.redd.it/zzyv2fajbnkz.png
+
+N-QPSK - Rohde Schwarz:
+
+https://www.youtube.com/watch?v=lDSzy...
+
+Smith chart to see a way you can move in the plane using impedances:
+
+https://www.youtube.com/watch?v=rUDMo...
+
+
+
+Golden ratio in two dimensions:
+
+https://math.stackexchange.com/questi...
+
+
+
+All 3blue1brown , just all:
+
+Eigen-functions essence
+
+https://www.youtube.com/watch?v=bOXCL...
+
+Fourier Transforms
+https://www.youtube.com/watch?v=spUNp...
+
+Hilbert games
+https://www.youtube.com/watch?v=3s7h2...
+
+
+
+
+Ben Sparks lovely take on Mandelbrot and Phi in  Numberphile:
+
+https://www.youtube.com/watch?v=sj8Sg...
+
+https://www.youtube.com/watch?v=FFftm...
+
+
+
+Of course master Mathologer was in familiar territory:
+
+What comes next?
+https://www.youtube.com/watch?v=4AuV9...
+
+FlowerPhi
+https://www.youtube.com/watch?v=_GkxC...
+
+http://www.ams.org/publicoutreach/fea...
+
+
+
+
+Reducible (Great channel!):
+FFT
+https://www.youtube.com/watch?v=h7apO...
+
+
+
+
+The unfinished game - Keith Devlin:
+https://www.youtube.com/watch?v=W5Xbu...
+
+Veritasium was in the zeitgeist about closed loops, and his lovely documentary about complex numbers discovery historical context:
+
+https://www.youtube.com/watch?v=iSNsg...
+
+https://www.youtube.com/watch?v=cUzkl...
+
+
+
+
+Adam Kucharski giving perfect historical context :
+
+https://www.youtube.com/watch?v=658xl...
+
+
+
+John Guttag Stochastic Thinking:
+
+https://www.youtube.com/watch?v=-1BnX...
+
+
+Couplings - Pattern formations in Biology:
+https://www.youtube.com/watch?v=AKZNv...
+
+
+
+
+Context and plot machine (solution to this puzzle,spoiler alert):
+
+https://github.com/fbunc/golden_ratio...
+
+https://github.com/fbunc/Golden_Ratio...
+
+
+
+
+
+Work in progress in the context of SoME2:
+
+https://github.com/fbunc/Golden_Ratio...
+
+
+SoME2
+https://github.com/leios/SoME_Topics/...
 
 
 
