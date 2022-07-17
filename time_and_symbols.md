@@ -15,7 +15,7 @@ They started working together, playing and brainstorming on how to help 'Time' a
 
 They realized that special beings from another dimension they observed amazed sometimes while playing, called 'Eigen', were $i$'s parents and that they were expecting to be seen.  
 
-They had answers to give and wanted their son to know that his real name is $j$ (sorry,just an inocent pun,wont be in the video).
+They had answers to give and wanted $i$ to meet new relatives called $1j$ 
 
 They also wanted to help $i$ friends and show them the path of wisdom.
 
