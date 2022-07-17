@@ -23,7 +23,7 @@ So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fract
 
 They chose a ring together and a Lucky number and started walking life together as one. 
 
-Also the numbers world friends had insights:
+Also the numbers had insights:
 
 $e$ met true potential and saw $exp()$ in the mirror. 
 
