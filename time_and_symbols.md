@@ -7,7 +7,7 @@ This is the story of 'Time' and 'Symbols', they loved each other but didn't know
 
 'Reality' was becoming more complicated what resulted in their **quartz** ticking faster, their **maps** getting fuzzier and their **compass** twirling. 
 
-All this made their life together much harder, 'Reality' and 'Ignorance' affected both in different ways, but also affected the quality of the 'Labels' they where able to chose while creating 'sets'.
+All this made their life together much harder, 'Reality' and 'Ignorance' affected both in different ways, but also affected the quality of the 'Labels' they where able to design while creating 'sets'.
 
 'Symbols' was too unpredictable in some situations and 'Time' was all about indexing events and in certain moments couldn't follow 'Symbols' **train-of-thoughts** . 
 
