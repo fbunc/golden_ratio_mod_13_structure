@@ -26,7 +26,7 @@ Some sequences made sense for both, but sometimes they found other sequences tha
 
 They felt they needed to evolve and were ready to work on it. They realized they were under many levels of 'Ignorance'. 
 
-So they decided to ask for help from their friends from the numbers world,$\pi$ , $e$, and $i$ (who was born an orphan), after a while more friends joined the team. 
+So they decided to ask for help from their friends from the numbers world, $\pi$ , $e$ , and $i$ (who was born an orphan), after a while more friends joined the team. 
 
 They started working together, playing and brainstorming on how to help 'Time' and 'Symbols'  improve their relationship. 
 
