@@ -43,7 +43,7 @@ $e$ met many infinite series and saw $exp()$ true potential in the mirror, and c
 
 $\pi$ realized about own troubles with closing loops, and started a really beautiful friendship with $2$
 
-$i$ think we go with the formulas...
+$i$ thinks we go with the formulas...
 
 They just had a possible **map**, **quartz**, and a **compass**, so:
 
