@@ -7,6 +7,7 @@ https://www.youtube.com/watch?v=NY5tgKBtLQ0
 
 
 
+Map of math by Dominic Walliman:
 
 ![](https://i.redd.it/zzyv2fajbnkz.png)
 
