@@ -118,7 +118,7 @@ and/or
 
 Make the first,second and third difference for the sequence.
 
-'Pause-and-ponder' looking for the best $T_o$ , $T_mod$ and $T_color$
+'Pause-and-ponder' looking for the best $T_o$ , $T_{mod}$ and $T_{color}$
 
 Main lines included  in OEIS  A257961 & A025641 :
 
