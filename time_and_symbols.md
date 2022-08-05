@@ -23,7 +23,7 @@ They realized that special beings from another dimension they observed amazed so
 
 They had answers to give and wanted $i$ to meet new relatives called $1j$ 
 
-They also wanted to help $i$ friends and show them the path of wisdom.
+They also wanted to help $i$ friends and show them the path of 'light' and 'color'
 
 So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fractals, waves of information, linearity, closed loops, and beautiful representations of reality, this insightful experience made them love each other much more, and made them stronger. 
 
@@ -104,17 +104,21 @@ After a divorce they realized they needed to learn more, much more...
 
 
 
-Another context of discovery for the sequences (as closed loops)  :
+Basic introduction  :
 
-https://github.com/fbunc/Golden_Ratio_and_13_structure
+
+Consider de sequences:
 
  0,8,3,11,6,1,9,4,12,7,2,10,5 
 
-and
+and/or
 
 0,5,10,2,7,12,4,9,1,6,11,3,8
 
-Consider all intermediate sequences for different  lags. 
+
+Make the first,second and third difference for the sequence.
+
+'Pause-and-ponder' looking for the best $T_o$ , $T_mod$ and $T_color$
 
 Main lines included  in OEIS  A257961 & A025641 :
 
@@ -128,19 +132,7 @@ https://github.com/fbunc/Golden_Ratio...
 
 Other related docs, and inspiration:
 
-In order :
 
-A beautiful map of math by Dominic Walliman :
-
-https://i.redd.it/zzyv2fajbnkz.png
-
-N-QPSK - Rohde Schwarz:
-
-https://www.youtube.com/watch?v=lDSzy...
-
-Smith chart to see a way you can move in the plane using impedances:
-
-https://www.youtube.com/watch?v=rUDMo...
 
 
 
@@ -182,42 +174,6 @@ FlowerPhi
 https://www.youtube.com/watch?v=_GkxC...
 
 http://www.ams.org/publicoutreach/fea...
-
-
-
-
-Reducible (Great channel!):
-FFT
-https://www.youtube.com/watch?v=h7apO...
-
-
-
-
-The unfinished game - Keith Devlin:
-https://www.youtube.com/watch?v=W5Xbu...
-
-Veritasium was in the zeitgeist about closed loops, and his lovely documentary about complex numbers discovery historical context:
-
-https://www.youtube.com/watch?v=iSNsg...
-
-https://www.youtube.com/watch?v=cUzkl...
-
-
-
-
-Adam Kucharski giving perfect historical context :
-
-https://www.youtube.com/watch?v=658xl...
-
-
-
-John Guttag Stochastic Thinking:
-
-https://www.youtube.com/watch?v=-1BnX...
-
-
-Couplings - Pattern formations in Biology:
-https://www.youtube.com/watch?v=AKZNv...
 
 
 
