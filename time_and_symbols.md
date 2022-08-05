@@ -107,7 +107,7 @@ After a divorce they realized they needed to learn more, much more...
 Basic introduction  :
 
 
-Consider de sequences:
+Consider the following sequences as closed loops:
 
  0,8,3,11,6,1,9,4,12,7,2,10,5 
 
@@ -116,9 +116,16 @@ and/or
 0,5,10,2,7,12,4,9,1,6,11,3,8
 
 
-Make the first,second and third difference for the sequence.
+Make the first,second and third difference for the sequence. Notice how the 'discrete-jerk' gives the key for $T_{color}$
 
 'Pause-and-ponder' looking for the best $T_o$ , $T_{mod}$ and $T_{color}$
+
+
+
+
+Does this sequence appear 'naturaly' in math?
+
+Yes, and it is related to $\phi$
 
 Main lines included  in OEIS  A257961 & A025641 :
 
@@ -130,9 +137,7 @@ https://github.com/fbunc/Golden_Ratio...
 
 https://github.com/fbunc/Golden_Ratio...
 
-Other related docs, and inspiration:
-
-
+Other related docs and inspiration:
 
 
 
@@ -167,7 +172,7 @@ https://www.youtube.com/watch?v=FFftm...
 
 Of course master Mathologer was in familiar territory:
 
-What comes next?
+What comes next? Discrete Newton
 https://www.youtube.com/watch?v=4AuV9...
 
 FlowerPhi
