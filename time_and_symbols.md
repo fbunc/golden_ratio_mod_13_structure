@@ -23,7 +23,7 @@ They realized that special beings from another dimension they observed amazed so
 
 They had answers to give and wanted $i$ to meet new relatives called $1j$ 
 
-They also wanted to help $i$ friends and show them the path of 'light' and 'color'
+They also wanted to help $i$ friends and show them the path of 'sound' , 'light' and 'color'
 
 So, these 'complex beings' were able to guide 'Time' and 'Symbols' through fractals, waves of information, linearity, closed loops, and beautiful representations of reality, this insightful experience made them love each other much more, and made them stronger. 
 
