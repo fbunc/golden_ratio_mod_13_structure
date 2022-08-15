@@ -149,57 +149,27 @@ https://math.stackexchange.com/questi...
 
 All 3blue1brown , just all:
 
-Eigen-functions essence
+Roots of unity and generating functions:
 
-https://www.youtube.com/watch?v=bOXCL...
+https://www.youtube.com/watch?v=bOXCLR3Wric
 
-Fourier Transforms
-https://www.youtube.com/watch?v=spUNp...
-
-Hilbert games
-https://www.youtube.com/watch?v=3s7h2...
 
 
 
 
 Ben Sparks lovely take on Mandelbrot and Phi in  Numberphile:
 
-https://www.youtube.com/watch?v=sj8Sg...
 
-https://www.youtube.com/watch?v=FFftm...
 
 
 
 Of course master Mathologer was in familiar territory:
 
 What comes next? Discrete Newton
-https://www.youtube.com/watch?v=4AuV9...
+
 
 FlowerPhi
-https://www.youtube.com/watch?v=_GkxC...
 
-http://www.ams.org/publicoutreach/fea...
-
-
-
-
-Context and plot machine (solution to this puzzle,spoiler alert):
-
-https://github.com/fbunc/golden_ratio...
-
-https://github.com/fbunc/Golden_Ratio...
-
-
-
-
-
-Work in progress in the context of SoME2:
-
-https://github.com/fbunc/Golden_Ratio...
-
-
-SoME2
-https://github.com/leios/SoME_Topics/...
 
 
 
